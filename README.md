@@ -1,3 +1,5 @@
+![monkeys team](http://i64.tinypic.com/24ewfwh.jpg)
+
 # monkeys
 tiny rest framework for golang
 
